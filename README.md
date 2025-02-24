@@ -1,5 +1,7 @@
 # ECP
 
+Be sure you are running the latest release available (v2.0.0)!
+
 This repository hosts the implementation of the **Effective Critical Plane (ECP)** method—a novel approach for assessing fatigue strength in structural components under complex loading conditions. By averaging the stress–strain field over a small, material-dependent volume, the ECP method enhances traditional critical plane analysis. This results in improved accuracy when predicting fatigue life, especially in areas with stress concentrations such as notches and welds.
 
 The repository includes source code, validation data, and example cases for researchers and engineers working on fatigue analysis.
