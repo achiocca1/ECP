@@ -6,10 +6,10 @@ This repository hosts the implementation of the **Effective Critical Plane (ECP)
 
 The repository includes source code, validation data, and example cases for researchers and engineers working on fatigue analysis.
 
-The mathematical procedure is described in the article:
+The mathematical procedure is described in the articles:
 
-**A. Chiocca, F. Frendo, "Fatigue assessment of structural components through the Effective Critical Plane factor", International Journal of Fatigue, 2024, doi.org/10.1016/j.ijfatigue.2024.108565.**
-
+- **A. Chiocca, F. Frendo, "Fatigue assessment of structural components through the Effective Critical Plane factor", International Journal of Fatigue, 2024, doi.org/10.1016/j.ijfatigue.2024.108565.**  
+- **F. Frendo, A. Chiocca, M. Sgamma, "A perspective on the structural integrity of notched components through the Effective Critical Plane approach", Engineering Failure Analysis, 2025, doi.org/10.1016/j.engfailanal.2025.109517.**  
 ---
 
 ## Repository Structure
