@@ -8,7 +8,8 @@ The repository includes source code, validation data, and example cases for rese
 
 The mathematical procedure is described in the articles:
 
-- **A. Chiocca, F. Frendo, "Fatigue assessment of structural components through the Effective Critical Plane factor", International Journal of Fatigue, 2024, doi.org/10.1016/j.ijfatigue.2024.108565.**  
+- **A. Chiocca, F. Frendo, "Fatigue assessment of structural components through the Effective Critical Plane factor", International Journal of Fatigue, 2024, doi.org/10.1016/j.ijfatigue.2024.108565.**
+- **A. Chiocca, M. Pedranz, F. Zanini, S. Carmignato, V. Fontanari, M. Benedetti, F. Frendo, "Application of the Effective critical plane approach for the fatigue assessment of ductile cast iron under multiaxial and non-proportional loading conditions", International Journal of Fatigue, 2024, doi.org/10.1016/j.ijfatigue.2024.108716.**  
 - **F. Frendo, A. Chiocca, M. Sgamma, "A perspective on the structural integrity of notched components through the Effective Critical Plane approach", Engineering Failure Analysis, 2025, doi.org/10.1016/j.engfailanal.2025.109517.**  
 ---
 
